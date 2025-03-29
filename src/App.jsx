@@ -1,7 +1,7 @@
 import React from 'react'
 import Home from './assets/Home.jsx'
 import SubmitForm from './pages/SubmitForm.jsx'
-import Information from './pages/Information.jsx'
+import Information from './assets/Information.jsx'
 import Contact from './pages/Contact.jsx'
 import NavBar from "./assets/NavBar.jsx";
 

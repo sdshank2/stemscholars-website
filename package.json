@@ -2,7 +2,7 @@
   "name": "gridlink",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sdshank2.github.io/stemscholars",
+  "homepage": "https://sdshank2.github.io/stemscholars-website",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
